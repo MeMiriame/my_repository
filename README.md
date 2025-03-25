@@ -1,1 +1,1 @@
-# my_repository
+My first repository from lesson 6.
